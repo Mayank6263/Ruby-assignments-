@@ -1,19 +1,14 @@
-input = gets.chomp.to_i
-
-def prime(input)
+input = gets.chomp.to_i #taking input from user
+count = 0
 i=2
-count =0
-while(i<=input)
-  if(input%i==0)
-  count += 1
+while(i <= input)
+  if(input%i == 0)
+    count += 1
+  end
+  i += 1
 end
-  i+=1
+if(count > 1)
+  puts "#{input} is not a prime "
+elsif(count == 1)
+  puts "#{input} is a prime "
 end
-
-if(count>1)
- puts "not prime"
- elsif(count==1)
-   puts "prime"
- end
-end
-prime(input)
