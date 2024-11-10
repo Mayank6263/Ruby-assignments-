@@ -1,4 +1,5 @@
 # Program to REVERESE AN ARRAY
+print "enter size of array :- "
 array = []
 size = gets.chomp.to_i
 #taking input from user

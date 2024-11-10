@@ -1,4 +1,5 @@
 #Programm for FABONACCI SERIES
+print "Enter any fabonacci number :- "
 fab_num = gets.chomp.to_i #taking input from user
 a = 0
 b = 1

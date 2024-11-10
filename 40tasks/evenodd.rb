@@ -1,3 +1,4 @@
+print "Enter any Even or odd number :- "
 input = gets.chomp.to_i #taking input from user
 def oddeven(input)
   if(input%2 == 0)

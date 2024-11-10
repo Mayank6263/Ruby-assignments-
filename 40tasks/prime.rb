@@ -1,4 +1,5 @@
 #Program to find PRIME number 
+print "Enter any prime number :- "
 input = gets.chomp.to_i #taking input from user
 count = 0
 i=1

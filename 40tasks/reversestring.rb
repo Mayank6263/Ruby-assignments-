@@ -1,3 +1,4 @@
+print "enter any string :- "
 input = gets.chomp #taking input from user
 reverse = "" #storing reversed string
 #using string as array to traverse
