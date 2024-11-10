@@ -1,13 +1,12 @@
 # Program to REVERESE AN ARRAY
 array = []
 size = gets.chomp.to_i
-#taking input from user 
+#taking input from user
 while(i < size)
   element = gets.chomp.to_i
   array << element
   i +=1
 end
-
 left = 0
 right = array.length-1
 while(left < right)
