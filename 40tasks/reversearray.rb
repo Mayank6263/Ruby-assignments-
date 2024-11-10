@@ -1,7 +1,17 @@
 array = []
 size = gets.chomp.to_i
-i =0
-while(i <= size)
+#taking input from user 
+while(i < size)
   element = gets.chomp.to_i
-  element << 
+  array << element
+  i +=1
 end
+
+left = 0
+right = array.length-1
+while(left < right)
+  array[left] , array[right]=array[right],array[left]
+  left += 1
+  right -= 1
+end
+puts array
