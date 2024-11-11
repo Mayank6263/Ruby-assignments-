@@ -1,0 +1,38 @@
+Ruby Programs:- 
+
+Even or Odd Number
+Factorial of a Number
+Fibonacci Series
+Prime Number Check
+String Reversal
+Vowel Counter
+Sum of Digits
+Palindromic String:
+Leap Year Check
+Largest Number in an Array
+Armstrong Number
+GCD of Two Numbers
+LCM of Two Numbers
+Array Sum
+Remove Duplicates from an Array
+Counting Words in a String
+Temperature Converter
+Swapping Two Variables:
+FizzBuzz
+ASCII Value of a Character
+Find the Median
+Check for Perfect Number
+Sum of Natural Numbers
+Print a Pyramid
+Random Number Guessing Game
+Find Second Largest Number in an Array
+Reverse an Array
+Remove Vowels from String
+Sum of Prime Numbers
+Number of Occurrences of a Character
+Quadratic Equation Solver
+Check for Anagrams
+Sum of Even Numbers
+Check for Pangram
+Binary to Decimal Conversion
+Decimal to Binary Conversion:
